@@ -1,18 +1,15 @@
-# AI SaaS Starter Template Kit for Next.js and Tailwind CSS
+# Website Generator with AI for Next.js and Tailwind CSS
 
-This is free and open source version of **AI Starter Kit** by [Next.js Templates](https://nextjstemplates.com) - A full-stack starter template kit for building AI-driven SaaS applications, crafted using **Next.js** and **Tailwind CSS**.
+This is a free and open source project named **Website Generator with AI**, built to help people generate and build web apps using AI. It is crafted using **Next.js** and **Tailwind CSS**.
 
-![AI Starter Kit](./ai-starter-kit.png)
-
-**AIStarterKit** includes ready-to-use core functionalities and integrations such as authentication, Stripe payment integration, database management, dashboards, and seamless AI API integration system. Allows you effortlessly build and launch AI-powered SaaS solutions for customers. Comes with examples - like generators for text, images, code, videos, and emails.
+**Website Generator with AI** includes ready-to-use core functionalities and integrations such as authentication, Stripe payment integration, database management, dashboards, and a seamless AI API integration system. It helps you build and launch AI-powered web products faster, with examples like generators for text, images, code, videos, and emails.
 
 
 ### Quick Links
-
-- [✨ AI Starter Kit](https://nextjstemplates.com/templates/ai-starter-kit)
+  
 - [🚀 View Demo](https://demo.aistarterkit.nextjstemplates.com/)
 
-If you are looking for AI SaaS Starter Kit, that can save you hundreds of hours and allow you to launch 100x faster, **AIStarterKit** is perfect choice for you
+If you are looking for a Website Generator with AI that can save you hundreds of hours and help you launch much faster, **Website Generator with AI** is a great starting point.
 
 ## Key Features
 
@@ -24,7 +21,7 @@ If you are looking for AI SaaS Starter Kit, that can save you hundreds of hours 
 - **One-click Deployment on Vercel and Others:** Deploy on Vercel, netlify and other PaaS with one-click. Simply add environment variables and hit deploy button.
 - **Lifetime Free Updates:** One-time purchase gives you ongoing updates—new features, improvements, and fixes without extra fees or monthly costs.
 
-| ✨ Features                         | 🎁 AIStarterKit Free                 | 🔥 AIStarterKit Pro                        |
+| ✨ Features                         | 🎁 Website Generator with AI Free   | 🔥 Website Generator with AI Pro        |
 |----------------------------------|--------------------------------|--------------------------------------|
 | Next.js Pages                    | Static                         | Dynamic Boilerplate Template         |
 | Components                       | Limited                        | All According to Demo                |
