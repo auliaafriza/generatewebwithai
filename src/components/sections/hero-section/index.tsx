@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import HeroLogos from '../hero-logos';
+// import HeroLogos from '../hero-logos';
 import { Subheading } from './subheading';
 import { IntroVideo } from './intro-video';
 
